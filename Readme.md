@@ -5,7 +5,8 @@ FLASHCARD APP
 App displays slide showing a question and another when tapped, shows the answer to that slide.
 
 ### App Walk-though
-https://im6.ezgif.com/tmp/ezgif-6-3ac8a55af976.gif
+<img src="https://im6.ezgif.com/tmp/ezgif-6-3ac8a55af976.gif", width=250 />
+
 ## Required
 - [x] User can open the creation screen
 - [x] User can cancel out of the creation screen
@@ -22,8 +23,7 @@ https://im6.ezgif.com/tmp/ezgif-6-3ac8a55af976.gif
 App displays slide showing a question and another when tapped, shows the answer to that slide.
 
 ### App Walk-though
-
-https://imgur.com/a/wgk22ZV
+<img src="https://imgur.com/a/wgk22ZV", width=250 />
 
 
 ## Required

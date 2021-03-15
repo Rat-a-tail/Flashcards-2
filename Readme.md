@@ -23,7 +23,7 @@ App displays slide showing a question and another when tapped, shows the answer 
 App displays slide showing a question and another when tapped, shows the answer to that slide.
 
 ### App Walk-though
-<img src= "https://imgur.com/a/wgk22ZV" width=250 />
+<img src= "https://imgur.com/a/wgk22ZV.gif" width=250 />
 
 
 ## Required

@@ -2,10 +2,10 @@ FLASHCARD APP
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+App displays slide showing a question and another when tapped, shows the answer to that slide.
 
 ### App Walk-though
-<img src="https://im2.ezgif.com/tmp/ezgif-2-e08da018b361.gif" width=200><br>
+https://im6.ezgif.com/tmp/ezgif-6-3ac8a55af976.gif
 ## Required
 - [x] User can open the creation screen
 - [x] User can cancel out of the creation screen

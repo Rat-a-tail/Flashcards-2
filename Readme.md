@@ -7,7 +7,7 @@ User can give information to flashcard that is then diplayed as a flashcard
 
 ### App Walk-though
 <img src= "https://im6.ezgif.com/tmp/ezgif-6-3ac8a55af976.gif" width=250 />
-
+<img src= "https://im6.ezgif.com/tmp/ezgif-6-3ac8a55af976.gif" width=250 />
 ## Required
 - [x] User can open the creation screen
 - [x] User can cancel out of the creation screen

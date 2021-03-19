@@ -6,7 +6,7 @@ App displays slide showing a question and another when tapped, shows the answer 
 User can give information to flashcard that is then diplayed as a flashcard
 
 ### App Walk-though
-<img src= "https://im6.ezgif.com/tmp/ezgif-6-bb1c8c5adef7.gif" width=250 />
+<img src= "http://g.recordit.co/U5WrUwAJXu.gif" width=250 />
 
 ## Required
 - [x] User can open the creation screen
